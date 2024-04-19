@@ -1,3 +1,4 @@
+
 .colors21{
     height: 50px;
     width: 50px;
@@ -31,4 +32,7 @@
 .pd-style{
     font-size: large;
     font-weight: 500;
+}
+.p-f-detels{
+    margin: 1.5vw;
 }
